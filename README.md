@@ -27,7 +27,7 @@ Package | Version
 Here is how you can run the project locally:
 1. Clone this repo
     ```sh
-    git clone https://github.com/josuapsianturi/velflix.git
+    git clone https://github.com/rilesh-webtech/assignment.git
     ```
 
 1. Go into the project root directory
